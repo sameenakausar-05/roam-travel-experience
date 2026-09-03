@@ -28,7 +28,7 @@ The application uses a clean editorial-inspired visual style with large imagery,
 
 ## 📸 Screenshots
 
- Added in the Screenshot folder inside public 
+Screenshots are added inside the public -> Screenshot.md
 
 
 ---
